@@ -178,6 +178,8 @@
         "script/virtualbox.sh",
         "script/parallels.sh",
         "script/motd.sh",
+        "script/upgrade-kernel.sh",
+        "script/anbox.sh",
         "{{user `custom_script`}}",
         "script/minimize.sh",
         "script/cleanup.sh"
